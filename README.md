@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Sofia's GitHub Banner](./header.png)](https://linkedin.com/in/sofialawrie)
 
 <!--
 **slawrie/slawrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
