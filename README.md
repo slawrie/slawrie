@@ -8,7 +8,3 @@ PhD in Information and Communication Technologies looking to professionally vent
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=9279a7)](https://www.linkedin.com/in/sofialawrie/)
 
 
-
-**What you can find here**
-
-At the moment, my only public repository contains all the code developed during the second part of my PhD studies on reservoir computing and second-order statistics for time series classification. Check it out for more details!
